@@ -83,6 +83,12 @@ body {
     
 }
 
+/* TRANSICION NAVBAR */
+.navbar .menu li:hover {
+    background-color: rgb(186, 186, 32); 
+    transition: background-color 1s; 
+}
+
 /* ANIMACION */                
 
 @keyframes agrandarimagen {
